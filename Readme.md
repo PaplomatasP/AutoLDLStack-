@@ -1,6 +1,6 @@
 
 ---
-title: "AutoLDLStack: A Guide to Stacking Models for LDL Prediction"
+ "AutoLDLStack: A Guide to Stacking Models for LDL Prediction"
 author: "AutoLDLStack Team"
 output:
   github_document:
