@@ -1,13 +1,7 @@
 
----
- "AutoLDLStack: A Guide to Stacking Models for LDL Prediction"
-author: "AutoLDLStack Team"
-output:
-  github_document:
-    toc: true
-    toc_depth: 3
-    number_sections: true
----
+
+ # "AutoLDLStack: A Guide to Stacking Models for LDL Prediction"
+
 
 ## Introduction
 
