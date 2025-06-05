@@ -2,7 +2,6 @@
 ---
 title: "AutoLDLStack: A Guide to Stacking Models for LDL Prediction"
 author: "AutoLDLStack Team"
-date: "`r Sys.Date()`"
 output:
   github_document:
     toc: true
